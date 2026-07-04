@@ -1,14 +1,17 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════════╗
   ║  GitHub Profile README — Sanjay Utchula (@sanjucoder-96)              ║
-  ║  Theme: Premium Minimalist · single indigo accent (#6366F1 / #818CF8) ║
   ║                                                                        ║
-  ║  HOW TO USE:                                                           ║
-  ║   1. Put this file in a repo named exactly  sanjucoder-96             ║
-  ║      (a repo whose name matches your username renders on your profile) ║
-  ║   2. Edit only the placeholders in the "Connect With Me" section.      ║
-  ║   3. Every widget already points at your username — nothing else       ║
-  ║      needs changing.                                                    ║
+  ║  This version is deliberately RIGHT-SIZED and HONEST. A polished       ║
+  ║  README on top of thin repos backfires with recruiters, so the        ║
+  ║  content here only claims what your repos can actually back up.        ║
+  ║                                                                        ║
+  ║  BEFORE YOU PUBLISH — do these first (they matter more than this file):║
+  ║   1. Fix your GitHub BIO (it currently trails off mid-sentence).       ║
+  ║   2. Add a real README + run steps + screenshot to Nova and the        ║
+  ║      Java Exam app — the two projects featured below.                  ║
+  ║   3. Fill in the real links in "Connect With Me".                      ║
+  ║   4. Put this file in a repo named exactly  sanjucoder-96.             ║
   ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -17,25 +20,22 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366F1,818CF8&height=200&section=header&text=Sanjay%20Utchula&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366F1,818CF8&height=190&section=header&text=Sanjay%20Utchula&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%C2%B7%20Java%20%26%20Python&descSize=16&descAlignY=58&animation=fadeIn"
   width="100%"
   alt="Sanjay Utchula"
 />
 
-<a href="https://github.com/sanjucoder-96">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=560&height=50&lines=Computer+Science+Engineering+Student;Building+practical+software%2C+one+commit+at+a+time;Java+%7C+Python+%7C+React+%7C+DSA;Always+learning%2C+always+building"
-    alt="Typing intro"
-  />
-</a>
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=818CF8&center=true&vCenter=true&width=560&height=50&lines=Computer+Science+Engineering+Student;Java+%7C+Python+%7C+Data+Structures+%26+Algorithms;Learning+backend+development,+the+honest+way"
+  alt="Intro"
+/>
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=sanjucoder-96&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile views" />
+<!-- EDIT the term/year to match your actual availability, or remove this badge. -->
+<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Internships-6366F1?style=flat-square&labelColor=1a1b27" alt="Open to internships" />
 &nbsp;
-<img src="https://img.shields.io/badge/Hyderabad,%20India-6366F1?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1a1b27" alt="Location" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSE%20Undergraduate-6366F1?style=flat-square&labelColor=1a1b27" alt="CSE Undergraduate" />
+<img src="https://img.shields.io/badge/Based%20in-Hyderabad,%20India-6366F1?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1a1b27" alt="Location" />
 
 </div>
 
@@ -51,18 +51,20 @@
 <tr>
 <td width="63%" valign="top">
 
-I'm a **Computer Science Engineering student** from Hyderabad, India, who genuinely
-enjoys the craft of building software. Most of what I know I've learned by building —
-turning small ideas into working tools and refining them until they behave the way I intended.
+I'm a **Computer Science Engineering student** in Hyderabad, India, currently
+building my foundations in **Java**, **Python**, and **Data Structures & Algorithms**.
 
-My favourite projects so far have been a **Python voice assistant** that automates
-everyday tasks and a **Java desktop application** built around solid OOP and algorithms.
-Alongside that, I practise **Data Structures & Algorithms** regularly to keep my
-problem-solving sharp.
+Most of what I know I've learned by building. My two projects so far are a
+[**Python voice assistant**](https://github.com/sanjucoder-96/Nova_Voice_Assistant)
+that automates desktop tasks (later extended with the Gemini API), and a
+[**Java desktop app**](https://github.com/sanjucoder-96/Java-Exam-Monitoring-System)
+built around object-oriented design and core algorithms. Alongside these I
+practise DSA regularly to sharpen my problem-solving.
 
-Right now I'm going deeper into **backend development** with Java and the Spring
-ecosystem. I try to learn in public, stay humble about how much is still ahead of me,
-and get a little better with every commit.
+Right now I'm going deeper into **backend development** with the Spring ecosystem —
+and I'm honest about being early in that journey. I'm looking for a **Software
+Engineering internship** where I can learn from experienced engineers and
+contribute to real systems.
 
 </td>
 <td width="37%" valign="top">
@@ -71,11 +73,12 @@ and get a little better with every commit.
 
 <br /><br />
 
-📍 &nbsp;Hyderabad, Telangana <br />
 🎓 &nbsp;CSE Undergraduate <br />
-⚙️ &nbsp;Backend & DSA enthusiast <br />
-🌱 &nbsp;Learning in public <br />
-💬 &nbsp;Ask me about Java & Python
+📍 &nbsp;Hyderabad, India <br />
+🧠 &nbsp;Strongest in Java &amp; Python <br />
+🌱 &nbsp;Learning backend + Spring <br />
+💼 &nbsp;Open to SWE internships <br />
+💬 &nbsp;Ask me about Java &amp; DSA
 
 </td>
 </tr>
@@ -98,7 +101,7 @@ and get a little better with every commit.
 ![C++](https://img.shields.io/badge/C++-6366F1?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1b27)
 ![SQL](https://img.shields.io/badge/SQL-6366F1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1b27)
 
-**BACKEND & FRAMEWORKS**
+**BACKEND & DATA**
 
 ![Spring Core](https://img.shields.io/badge/Spring%20Core-6366F1?style=for-the-badge&logo=spring&logoColor=white&labelColor=1a1b27)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6366F1?style=for-the-badge&logo=spring&logoColor=white&labelColor=1a1b27)
@@ -107,17 +110,14 @@ and get a little better with every commit.
 ![JDBC](https://img.shields.io/badge/JDBC-6366F1?style=for-the-badge&labelColor=1a1b27)
 ![Flask](https://img.shields.io/badge/Flask-6366F1?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1b27)
 
-**FRONTEND**
+**FRONTEND & FOUNDATIONS**
 
 ![React](https://img.shields.io/badge/React-6366F1?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1b27)
-
-**CORE CS**
-
-![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6366F1?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b27)
+![Data Structures & Algorithms](https://img.shields.io/badge/DSA-6366F1?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b27)
 
 <br />
 
-<sub><i>Languages, frameworks and concepts I have genuinely worked with.</i></sub>
+<sub><i>Languages, frameworks and concepts I've studied and built with across coursework and personal projects.</i></sub>
 
 </div>
 
@@ -147,56 +147,43 @@ and get a little better with every commit.
 
 ## 📌 Featured Projects
 
+<!--
+  Only TWO cards on purpose. Two projects a recruiter can actually open, run,
+  and understand beat four padded ones. Add a README + screenshot + run steps
+  to each of these repos BEFORE sharing this profile — the card only works if
+  the repo behind it delivers.
+-->
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>Nova Voice Assistant</h3>
-      <p>A Python-based desktop voice assistant that automates everyday tasks through speech.</p>
+      <h3>Nova — Voice Assistant</h3>
+      <p>A Python desktop voice assistant that automates everyday tasks through speech, later extended with the <b>Gemini API</b> for dynamic, conversational command handling.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-6366F1?style=flat-square&logo=python&logoColor=white&labelColor=1a1b27" alt="Python" />
-        <img src="https://img.shields.io/badge/Speech%20Automation-1a1b27?style=flat-square" alt="Speech Automation" />
+        <img src="https://img.shields.io/badge/Gemini%20API-1a1b27?style=flat-square&logo=googlegemini&logoColor=6366F1" alt="Gemini API" />
+        <img src="https://img.shields.io/badge/Speech-1a1b27?style=flat-square" alt="Speech" />
       </p>
       <a href="https://github.com/sanjucoder-96/Nova_Voice_Assistant">
         <img src="https://img.shields.io/badge/View%20Repository-1a1b27?style=for-the-badge&logo=github&logoColor=6366F1" alt="View Nova Voice Assistant" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>Gemini Integration</h3>
-      <p>Extends the Nova voice assistant with dynamic, intelligent commands powered by the Gemini API.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-6366F1?style=flat-square&logo=python&logoColor=white&labelColor=1a1b27" alt="Python" />
-        <img src="https://img.shields.io/badge/Gemini%20API-1a1b27?style=flat-square&logo=googlegemini&logoColor=6366F1" alt="Gemini API" />
-      </p>
-      <a href="https://github.com/sanjucoder-96/Gemini_Integeration">
-        <img src="https://img.shields.io/badge/View%20Repository-1a1b27?style=for-the-badge&logo=github&logoColor=6366F1" alt="View Gemini Integration" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>Java Exam Monitoring System</h3>
-      <p>A Java desktop application demonstrating OOP and algorithms for simulated exam-behaviour monitoring.</p>
+      <p>A Java desktop application that applies <b>object-oriented design</b> and core <b>algorithms</b> to simulate and monitor exam-session behaviour.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-6366F1?style=flat-square&logo=openjdk&logoColor=white&labelColor=1a1b27" alt="Java" />
-        <img src="https://img.shields.io/badge/OOP%20%26%20Algorithms-1a1b27?style=flat-square" alt="OOP and Algorithms" />
+        <img src="https://img.shields.io/badge/OOP-1a1b27?style=flat-square" alt="OOP" />
+        <img src="https://img.shields.io/badge/Algorithms-1a1b27?style=flat-square" alt="Algorithms" />
       </p>
       <a href="https://github.com/sanjucoder-96/Java-Exam-Monitoring-System">
         <img src="https://img.shields.io/badge/View%20Repository-1a1b27?style=for-the-badge&logo=github&logoColor=6366F1" alt="View Java Exam Monitoring System" />
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>LeetCode Solutions</h3>
-      <p>A growing collection of my Data Structures &amp; Algorithms and LeetCode practice solutions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-6366F1?style=flat-square&logo=python&logoColor=white&labelColor=1a1b27" alt="Python" />
-        <img src="https://img.shields.io/badge/DSA-1a1b27?style=flat-square&logo=leetcode&logoColor=6366F1" alt="DSA" />
-      </p>
-      <a href="https://github.com/sanjucoder-96/leetcode-solutions">
-        <img src="https://img.shields.io/badge/View%20Repository-1a1b27?style=for-the-badge&logo=github&logoColor=6366F1" alt="View LeetCode Solutions" />
-      </a>
-    </td>
   </tr>
 </table>
+
+<sub>Also on my profile: <a href="https://github.com/sanjucoder-96/leetcode-solutions">leetcode-solutions</a> — my ongoing DSA practice.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6366F1,818CF8&height=2&section=header" width="100%" alt="" />
 
@@ -211,28 +198,24 @@ and get a little better with every commit.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjucoder-96&show_icons=true&hide_border=true&title_color=6366F1&icon_color=818CF8&text_color=C9D1D9&bg_color=0D1117&rank_icon=github" alt="Sanjay's GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjucoder-96&layout=compact&hide_border=true&title_color=6366F1&text_color=C9D1D9&bg_color=0D1117&langs_count=8" alt="Top languages" />
 
-<br /><br />
-
-<img height="165" src="https://streak-stats.demolab.com/?user=sanjucoder-96&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
-
-<br /><br />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjucoder-96&bg_color=0D1117&color=C9D1D9&line=6366F1&point=818CF8&area=true&area_color=6366F1&hide_border=true" alt="Contribution activity graph" />
-
 </div>
 
 <!--
-  NOTE ON THE STATS + TOP-LANGUAGES CARDS ABOVE:
-  They use the free shared instance of github-readme-stats, which occasionally
-  returns a temporary error under heavy load (the image just won't appear for a
-  while). It normally recovers on its own. If you ever want a rock-solid version,
-  deploy your own copy in ~2 minutes — see:
-  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-  then swap "github-readme-stats.vercel.app" in the two URLs above for your instance.
+  DELIBERATELY OMITTED (for now): the streak widget, the profile-views counter,
+  and the contribution activity graph. On a young account with limited history
+  they draw the recruiter's eye straight to the thinnest data. Once your
+  contribution history is something you're proud of, uncomment the block below.
+
+  <div align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=sanjucoder-96&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+  <br /><br />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjucoder-96&bg_color=0D1117&color=C9D1D9&line=6366F1&point=818CF8&area=true&area_color=6366F1&hide_border=true" alt="Contribution activity graph" />
+  </div>
+
+  NOTE: the two cards above use the free shared github-readme-stats instance,
+  which occasionally returns a temporary error under load. If it won't render,
+  deploy your own copy (2 min): https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 -->
-
-<!-- A trophy widget used to live here but its public host was rate-limited; kept out to avoid a broken image. -->
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6366F1,818CF8&height=2&section=header" width="100%" alt="" />
 
@@ -240,28 +223,25 @@ and get a little better with every commit.
 
 <!-- ═══════════════════════════  LEARNING JOURNEY  ═══════════════════════════ -->
 
-## 🌱 Current Learning Journey
+## 🌱 Currently Learning
 
 <table width="100%">
   <tr>
     <td valign="top" width="58%">
       <p>
-        I keep a living log of my backend growth in my
+        I've just started a public backend-learning log in my
         <a href="https://github.com/sanjucoder-96/Spring_Boot_Journey"><b>Spring Boot Journey</b></a>
-        repository — where I document each project and concept as I learn it.
-        It's a work in progress by design, and it will keep growing as I do.
+        repository, where I'll add small projects and notes as I work through the Spring
+        ecosystem. It's early and intentionally a work-in-progress — follow along as it grows.
       </p>
-      <p><b>What I'm currently exploring:</b></p>
-      <a href="https://github.com/sanjucoder-96/Spring_Boot_Journey">
-        <img src="https://img.shields.io/badge/Follow%20the%20Journey-1a1b27?style=for-the-badge&logo=springboot&logoColor=6366F1" alt="Follow the Journey" />
-      </a>
+      <p><sub><i>These are things I'm actively learning — not skills I'd claim as production-ready yet.</i></sub></p>
     </td>
     <td valign="top" width="42%" align="center">
-      <img src="https://img.shields.io/badge/Spring%20Boot-learning-6366F1?style=for-the-badge&logo=springboot&logoColor=white&labelColor=1a1b27" alt="Spring Boot" /><br />
-      <img src="https://img.shields.io/badge/REST%20APIs-learning-6366F1?style=for-the-badge&labelColor=1a1b27" alt="REST APIs" /><br />
-      <img src="https://img.shields.io/badge/Spring%20Security-learning-6366F1?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=1a1b27" alt="Spring Security" /><br />
-      <img src="https://img.shields.io/badge/Microservices-learning-6366F1?style=for-the-badge&labelColor=1a1b27" alt="Microservices" /><br />
-      <img src="https://img.shields.io/badge/Docker-learning-6366F1?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1b27" alt="Docker" />
+      <img src="https://img.shields.io/badge/Spring_Boot-learning-6B7280?style=flat&logo=springboot&logoColor=white" alt="Spring Boot (learning)" /><br />
+      <img src="https://img.shields.io/badge/REST_APIs-learning-6B7280?style=flat" alt="REST APIs (learning)" /><br />
+      <img src="https://img.shields.io/badge/Spring_Security-learning-6B7280?style=flat&logo=springsecurity&logoColor=white" alt="Spring Security (learning)" /><br />
+      <img src="https://img.shields.io/badge/Microservices-learning-6B7280?style=flat" alt="Microservices (learning)" /><br />
+      <img src="https://img.shields.io/badge/Docker-learning-6B7280?style=flat&logo=docker&logoColor=white" alt="Docker (learning)" />
     </td>
   </tr>
 </table>
@@ -270,26 +250,26 @@ and get a little better with every commit.
 
 <br />
 
-<!-- ═══════════════════════════  GOALS  ═══════════════════════════ -->
+<!-- ═══════════════════════════  SO FAR / NEXT  ═══════════════════════════ -->
 
-## 🎯 Goals
+## 🎯 So Far &amp; Next
 
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <b>This year</b>
+      <b>What I've built so far</b>
       <ul>
-        <li>Build and deploy my first complete Spring Boot application</li>
-        <li>Strengthen my DSA foundations with consistent daily practice</li>
-        <li>Ship an end-to-end REST API from scratch</li>
+        <li>Nova — a Python voice assistant, extended with the Gemini API</li>
+        <li>A Java exam-monitoring desktop app using OOP &amp; algorithms</li>
+        <li>Ongoing DSA practice on LeetCode<!-- add your real solved count here, e.g. "(120+ problems)" --></li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <b>Looking ahead</b>
+      <b>What I'm working toward</b>
       <ul>
-        <li>Explore microservices and containerized workflows</li>
-        <li>Make my first meaningful open-source contribution</li>
-        <li>Keep learning in public and grow into a well-rounded engineer</li>
+        <li>Shipping my first end-to-end Spring Boot REST API</li>
+        <li>Adding proper READMEs, tests &amp; demos to my projects</li>
+        <li>Making my first open-source contribution</li>
       </ul>
     </td>
   </tr>
@@ -305,15 +285,18 @@ and get a little better with every commit.
 
 <!--
   ┌────────────────────────────────────────────────────────────────────┐
-  │  REPLACE THE 5 PLACEHOLDERS BELOW WITH YOUR OWN LINKS:              │
-  │    • YOUR_LINKEDIN   →  your LinkedIn username (linkedin.com/in/…)  │
-  │    • YOUR_PORTFOLIO  →  your portfolio website URL                  │
-  │    • your@email.com  →  your real email address                    │
-  │    • YOUR_LEETCODE   →  your LeetCode username                      │
-  │    • YOUR_TWITTER    →  your X/Twitter handle  (optional)           │
+  │  IMPORTANT: fill these in with REAL links before publishing.        │
+  │  A placeholder contact link is worse than no link — it tells a      │
+  │  recruiter the profile shipped unfinished, and they can't reach you.│
+  │                                                                      │
+  │    • YOUR_LINKEDIN   →  your LinkedIn URL slug                       │
+  │    • your@email.com  →  your real email                             │
+  │    • YOUR_LEETCODE   →  your LeetCode username                       │
+  │                                                                      │
+  │  (Portfolio and X/Twitter badges were intentionally left out —      │
+  │   add them back only if you have real links.)                       │
   └────────────────────────────────────────────────────────────────────┘
 -->
-
 <div align="center">
 
 <a href="https://linkedin.com/in/sanjay-utchula-542a1131b">
