@@ -16,7 +16,6 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Sanjay Utchula" />
 
 <img
   src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&height=50&lines=Computer+Science+Engineering+Student;Java+%7C+Python+%7C+Data+Structures+%26+Algorithms;Learning+backend+development%2C+in+the+open;Open+to+Software+Engineering+Internships"
