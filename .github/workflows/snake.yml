@@ -1,4 +1,19 @@
-
+# ─────────────────────────────────────────────────────────────────────────────
+#  Generate the contribution-snake animation used in the profile README.
+#
+#  WHERE THIS GOES:
+#    This file belongs in your PROFILE repo (the one named  sanjucoder-96 ),
+#    at the path  .github/workflows/snake.yml
+#
+#  HOW IT WORKS:
+#    On a schedule (and on demand), it reads your contribution graph, renders
+#    two SVGs (light + dark, in the README's aurora accent) and pushes them to a
+#    called "output". The README references those files by their raw URL.
+#
+#  FIRST RUN:
+#    Pushing this file to `main` triggers the workflow automatically and creates
+#    the "output" branch — so the snake stops 404-ing in your README on its own.
+#    Want it sooner? Actions tab → "Generate Snake Animation" → "Run workflow".
 # ─────────────────────────────────────────────────────────────────────────────
 name: Generate Snake Animation
 
@@ -19,14 +34,17 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Generate snake SVGs
-        uses: Platane/snk@v3
+        # Use the "svg-only" sub-action: it runs on Node (no Docker image to
+        # pull), which avoids the "Docker pull failed" error that the Docker-based
+        # root action (Platane/snk@v3) can hit on GitHub-hosted runners.
+        uses: Platane/snk/svg-only@v3
         id: snake-gen
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Ember-tinted to match the README/portfolio brand.
+          # Aurora (indigo -> cyan) to match the README theme.
           outputs: |
-            dist/github-snake.svg?color_snake=#c2472e&color_dots=#ebe4d8,#f3c3b2,#e08a6f,#c2472e,#8f2f1c
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#e0653f
+            dist/github-snake.svg?color_snake=#818cf8&color_dots=#1e1b4b,#3730a3,#4f46e5,#6366f1,#22d3ee
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#818cf8
 
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v4
