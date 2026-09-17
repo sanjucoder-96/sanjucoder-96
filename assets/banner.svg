@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" fill="none" role="img" aria-label="Sanjay Utchula — Computer Science Student">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" fill="none" role="img" aria-label="Sanjay Utchula, Computer Science Student">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
       <stop stop-color="#6366F1"/>
@@ -23,7 +23,7 @@
   <rect width="1200" height="240" fill="url(#dots)"/>
   <rect width="1200" height="240" fill="url(#glow)"/>
   <rect width="1200" height="240" fill="url(#shade)"/>
-  <text x="600" y="118" text-anchor="middle" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="66" font-weight="800" fill="#ffffff" letter-spacing="0.5">Sanjay Utchula</text>
-  <text x="600" y="162" text-anchor="middle" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="500" fill="#EAF6FF" opacity="0.95">Computer Science Student &#8226; Java &amp; Python &#8226; Building in the open</text>
-  <rect x="548" y="186" width="104" height="4" rx="2" fill="#ffffff" opacity="0.9"/>
+  <text x="600" y="120" text-anchor="middle" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="66" font-weight="800" fill="#ffffff" letter-spacing="0.5">Sanjay Utchula</text>
+  <text x="600" y="163" text-anchor="middle" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="500" fill="#EAF6FF" opacity="0.95">Computer Science Student  ·  Java  ·  Python  ·  Building in the open</text>
+  <rect x="548" y="188" width="104" height="4" rx="2" fill="#ffffff" opacity="0.9"/>
 </svg>

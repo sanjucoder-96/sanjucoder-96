@@ -1,21 +1,21 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║  GitHub Profile README — Sanjay Utchula (@sanjucoder-96)              ║
-  ║  Theme: Aurora — indigo to cyan; banner & dividers are SVGs in /assets.              ║
-  ║                                                                        ║
-  ║  PUBLISH CHECKLIST:                                                     ║
-  ║   1. Commit README.md + the /assets folder + .github/ to a repo named sanjucoder-96.            ║
-  ║   2. Add .github/workflows/snake.yml to the SAME repo. Pushing it to   ║
-  ║      main auto-runs the workflow and creates the "output" branch, so    ║
-  ║      the snake stops 404-ing. (Actions → Run workflow to trigger early.)║
-  ║   3. Fill the real links in "Connect" (LinkedIn / Email / LeetCode).   ║
-  ╚══════════════════════════════════════════════════════════════════════╝
+  Sanjay Utchula — GitHub profile README
+  Theme: Aurora (indigo -> cyan). The banner and section dividers are
+  self-contained, entity-free SVGs in /assets, so nothing depends on a
+  flaky external banner service and no image can throw an XML error.
+
+  To publish: commit README.md + the /assets folder + /.github to a public
+  repo named exactly  sanjucoder-96 . Push to main and the snake workflow
+  runs itself. Your real profile links are already filled in below.
 -->
 
-<!-- ═══════════════════════════  HERO  ═══════════════════════════ -->
+<!-- ============================  HERO  ============================ -->
 
 <div align="center">
 
+<img src="assets/banner.svg" width="100%" alt="Sanjay Utchula — Computer Science Student" />
+
+<br />
 
 <img
   src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&height=50&lines=Computer+Science+Engineering+Student;Java+%7C+Python+%7C+Data+Structures+%26+Algorithms;Learning+backend+development%2C+in+the+open;Open+to+Software+Engineering+Internships"
@@ -28,27 +28,28 @@
   <img src="https://img.shields.io/badge/Open%20to-SWE%20Internships-4F46E5?style=for-the-badge&labelColor=1E1B4B" alt="Open to internships" />
 </p>
 
-<a href="https://github.com/sanjucoder-96"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
-<a href="https://sanjucoder-96.github.io/"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/sanjay-utchula-542a1131b"><img src="https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
-<a href="mailto:sanjayutchula09@gmail.com"><img src="https://img.shields.io/badge/Email-1E1B4B?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
+<p>
+  <a href="https://github.com/sanjucoder-96"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
+  <a href="https://www.sanjayutchula.me"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/sanjay-utchula-542a1131b"><img src="https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/sanju_dev_09"><img src="https://img.shields.io/badge/LeetCode-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=22D3EE" alt="LeetCode" /></a>
+  <a href="mailto:sanjayutchula09@gmail.com"><img src="https://img.shields.io/badge/Email-1E1B4B?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
+</p>
 
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<br />
+<!-- ============================  ABOUT  ============================ -->
 
-<!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
-
-## 🧑‍💻 About Me
+## 👋 About Me
 
 <table>
 <tr>
-<td width="63%" valign="top">
+<td width="62%" valign="top">
 
-I'm a **Computer Science Engineering student** in Hyderabad, India, currently
-building my foundations in **Java**, **Python**, and **Data Structures & Algorithms**.
+I'm a **Computer Science Engineering student** in Hyderabad, India, building my
+foundations in **Java**, **Python**, and **Data Structures & Algorithms**.
 
 Most of what I know I've learned by building — turning small ideas into working
 tools and refining them until they behave the way I intended. My two projects so
@@ -61,7 +62,7 @@ Engineering internship** where I can learn from experienced engineers and
 contribute to real systems.
 
 </td>
-<td width="37%" valign="top">
+<td width="38%" valign="top">
 
 <b>At a glance</b>
 
@@ -80,11 +81,9 @@ contribute to real systems.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<br />
+<!-- ============================  TECH STACK  ============================ -->
 
-<!-- ═══════════════════════════  TECH STACK  ═══════════════════════════ -->
-
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -113,11 +112,9 @@ contribute to real systems.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<br />
+<!-- ============================  TOOLS  ============================ -->
 
-<!-- ═══════════════════════════  TOOLS  ═══════════════════════════ -->
-
-## 🧰 Tools & Workflow
+## 🛠️ Tools & Workflow
 
 <div align="center">
 
@@ -131,11 +128,9 @@ contribute to real systems.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<br />
+<!-- ============================  FEATURED PROJECTS  ============================ -->
 
-<!-- ═══════════════════════════  FEATURED PROJECTS  ═══════════════════════════ -->
-
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
@@ -168,33 +163,29 @@ contribute to real systems.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<br />
+<!-- ============================  GITHUB ACTIVITY  ============================ -->
 
-<!-- ═══════════════════════════  GITHUB ANALYTICS  ═══════════════════════════ -->
+## 📊 GitHub Activity
 
-## 📊 GitHub Analytics
+<!--
+  This section uses only reliable, first-party image services. The old
+  github-readme-stats (stats + top-languages) and github-readme-activity-graph
+  cards were removed because their shared instances were hard-failing (HTTP 503
+  and 402), which is what showed as broken images. Streak stats and the snake
+  below are reliable. See the README notes if you want the stats cards back.
+-->
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjucoder-96&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=818CF8&text_color=A9B7C6&bg_color=0D1117&rank_icon=github" alt="Sanjay's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjucoder-96&layout=compact&hide_border=true&title_color=22D3EE&text_color=A9B7C6&bg_color=0D1117&langs_count=8" alt="Top languages" />
+<img height="175" src="https://streak-stats.demolab.com/?user=sanjucoder-96&hide_border=true&background=0D1117&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=A9B7C6&dates=6B7A8F&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1E1B4B" alt="GitHub streak stats" />
 
 <br /><br />
 
-<img height="165" src="https://streak-stats.demolab.com/?user=sanjucoder-96&hide_border=true&background=0D1117&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=A9B7C6&dates=6B7A8F&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1E1B4B" alt="GitHub streak" />
-
-</div>
-
-<br />
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
 <!--
-  Generated by .github/workflows/snake.yml and committed to the "output" branch.
-  It 404s until that workflow first runs — which happens automatically when you
-  push snake.yml to main. (Actions tab → "Run workflow" to trigger it sooner.)
+  Contribution snake — generated by .github/workflows/snake.yml and committed to
+  the "output" branch. It stays blank until that workflow runs once: it auto-runs
+  when you push to main, or trigger it from the Actions tab ->
+  "Generate Snake Animation" -> "Run workflow".
 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjucoder-96/sanjucoder-96/output/github-snake-dark.svg" />
@@ -202,23 +193,11 @@ contribute to real systems.
   <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/sanjucoder-96/sanjucoder-96/output/github-snake.svg" width="100%" />
 </picture>
 
-<br /><br />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjucoder-96&custom_title=Contribution%20Graph&title_color=22D3EE&bg_color=0D1117&color=A9B7C6&line=818CF8&point=22D3EE&area=true&area_color=6366F1&hide_border=true" alt="Contribution activity graph" />
-
 </div>
-
-<!--
-  If the stats / top-languages cards ever fail to load, that's the free shared
-  github-readme-stats instance rate-limiting under load. It recovers on its own,
-  or deploy your own copy in ~2 min: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
--->
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<br />
-
-<!-- ═══════════════════════════  LEARNING  ═══════════════════════════ -->
+<!-- ============================  CURRENTLY LEARNING  ============================ -->
 
 ## 🌱 Currently Learning
 
@@ -245,11 +224,9 @@ contribute to real systems.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<br />
+<!-- ============================  GOALS  ============================ -->
 
-<!-- ═══════════════════════════  SO FAR / NEXT  ═══════════════════════════ -->
-
-## 🎯 So Far &amp; Next
+## 🎯 So Far & Next
 
 <table width="100%">
   <tr>
@@ -274,20 +251,9 @@ contribute to real systems.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<br />
+<!-- ============================  CONNECT  ============================ -->
 
-<!-- ═══════════════════════════  CONNECT  ═══════════════════════════ -->
-
-## 🤝 Connect With Me
-
-<!--
-  ┌────────────────────────────────────────────────────────────────────┐
-  │  Fill these with REAL links before publishing:                      │
-  │    • YOUR_LINKEDIN   →  your LinkedIn URL slug                       │
-  │    • your@email.com  →  your real email                             │
-  │    • YOUR_LEETCODE   →  your LeetCode username                       │
-  └────────────────────────────────────────────────────────────────────┘
--->
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -297,7 +263,7 @@ contribute to real systems.
 &nbsp;
 <a href="https://leetcode.com/u/sanju_dev_09"><img src="https://img.shields.io/badge/LeetCode-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1B4B" alt="LeetCode" /></a>
 &nbsp;
-<a href="https://sanjucoder-96.github.io/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E1B4B" alt="Portfolio" /></a>
+<a href="https://www.sanjayutchula.me"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E1B4B" alt="Portfolio" /></a>
 
 <br /><br />
 
@@ -306,4 +272,3 @@ contribute to real systems.
 </div>
 
 <img src="assets/wave.svg" width="100%" alt="" />
-

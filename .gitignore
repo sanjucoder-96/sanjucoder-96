@@ -1,0 +1,8 @@
+# This repo (sanjucoder-96/sanjucoder-96) is the GitHub PROFILE repo.
+# Only the profile README, its /assets, and the snake workflow belong here.
+# Everything else in this local working folder is intentionally excluded.
+/index.html
+/PROJECT_README.md
+/project-readmes/
+/irctc-tatkal-autofill/
+/.claude/
